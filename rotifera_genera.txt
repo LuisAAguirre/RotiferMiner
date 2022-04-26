@@ -1,0 +1,256 @@
+(Sub)Class	Order	Family	Genus	28S	18S	COI	ITS	WGS
+Bdelloidea		Adinetidae	Adineta
+Bdelloidea		Adinetidae	Bradyscela
+Bdelloidea		Adinetidae	Planotrochus
+Monogononta	Ploima	Asplanchnidae	Apus
+Monogononta	Ploima	Asplanchnidae	Asplanchna
+Monogononta	Ploima	Asplanchnidae	Asplanchnella
+Monogononta	Ploima	Asplanchnidae	Asplanchnopus
+Monogononta	Ploima	Asplanchnidae	Dinops
+Monogononta	Ploima	Asplanchnidae	Harringia
+Monogononta	Collothecaceae	Atrochidae	Acyclus
+Monogononta	Collothecaceae	Atrochidae	Apsilus
+Monogononta	Collothecaceae	Atrochidae	Atrochus
+Monogononta	Collothecaceae	Atrochidae	Cupelopagis
+Monogononta	Collothecaceae	Atrochidae	Dictyophora
+Monogononta	Collothecaceae	Atrochidae	Hyalocephalus
+Monogononta	Ploima	Birgeidae	Birgea
+Monogononta	Ploima	Brachionidae	Anourella
+Monogononta	Ploima	Brachionidae	Anuraea
+Monogononta	Ploima	Brachionidae	Anuraeopsis
+Monogononta	Ploima	Brachionidae	Argonotholca
+Monogononta	Ploima	Brachionidae	Arthracanthus
+Monogononta	Ploima	Brachionidae	Arthrocanthus
+Monogononta	Ploima	Brachionidae	Brachionus
+Monogononta	Ploima	Brachionidae	Dadayus
+Monogononta	Ploima	Brachionidae	Kellicottia
+Monogononta	Ploima	Brachionidae	Keratella
+Monogononta	Ploima	Brachionidae	Keratellaeopsis
+Monogononta	Ploima	Brachionidae	Noteus
+Monogononta	Ploima	Brachionidae	Notholca
+Monogononta	Ploima	Brachionidae	Paranuraeopsis
+Monogononta	Ploima	Brachionidae	Plationus
+Monogononta	Ploima	Brachionidae	Platyias
+Monogononta	Ploima	Brachionidae	Pseudonotholca
+Monogononta	Ploima	Brachionidae	Schizocerca
+Monogononta	Ploima	Brachionidae	Tricalama
+Monogononta	Ploima	Clariaidae	Claria
+Monogononta	Collothecaceae	Collothecidae	Collotheca
+Monogononta	Collothecaceae	Collothecidae	Coronella
+Monogononta	Collothecaceae	Collothecidae	Stephanoceros
+Monogononta	Flosculariacea	Conochilidae	Conochiloides
+Monogononta	Flosculariacea	Conochilidae	Conochilus
+Monogononta	Ploima	Dicranophoridae	Albertia
+Monogononta	Ploima	Dicranophoridae	Arthroglena
+Monogononta	Ploima	Dicranophoridae	Aspelta
+Monogononta	Ploima	Dicranophoridae	Balatro
+Monogononta	Ploima	Dicranophoridae	Dicranella
+Monogononta	Ploima	Dicranophoridae	Dicranophoroides
+Monogononta	Ploima	Dicranophoridae	Dicranophorus
+Monogononta	Ploima	Dicranophoridae	Dorria
+Monogononta	Ploima	Dicranophoridae	Encentroides
+Monogononta	Ploima	Dicranophoridae	Encentrum
+Monogononta	Ploima	Dicranophoridae	Erignatha
+Monogononta	Ploima	Dicranophoridae	Glaciera
+Monogononta	Ploima	Dicranophoridae	Inflatana
+Monogononta	Ploima	Dicranophoridae	Isoencentrum
+Monogononta	Ploima	Dicranophoridae	Kermodon
+Monogononta	Ploima	Dicranophoridae	Kostea
+Monogononta	Ploima	Dicranophoridae	Myersina
+Monogononta	Ploima	Dicranophoridae	Myersinella
+Monogononta	Ploima	Dicranophoridae	Paradicranophorus
+Monogononta	Ploima	Dicranophoridae	Parencentropsis
+Monogononta	Ploima	Dicranophoridae	Parencentrum
+Monogononta	Ploima	Dicranophoridae	Pedipartia
+Monogononta	Ploima	Dicranophoridae	Pseudencentrum
+Monogononta	Ploima	Dicranophoridae	Streptognatha
+Monogononta	Ploima	Dicranophoridae	Wierzejskiella
+Monogononta	Ploima	Dicranophoridae	Wigrella
+Monogononta	Ploima	Epiphanidae	Adactyla
+Monogononta	Ploima	Epiphanidae	Cyrtonia
+Monogononta	Ploima	Epiphanidae	Epiphanes
+Monogononta	Ploima	Epiphanidae	Hydatina
+Monogononta	Ploima	Epiphanidae	Liliferotrocha
+Monogononta	Ploima	Epiphanidae	Mikrocodides
+Monogononta	Ploima	Epiphanidae	Notops
+Monogononta	Ploima	Epiphanidae	Paradoxocara
+Monogononta	Ploima	Epiphanidae	Proalides
+Monogononta	Ploima	Epiphanidae	Rhinoglena
+Monogononta	Ploima	Epiphanidae	Rhinops
+Monogononta	Ploima	Epiphanidae	Russeletia
+Monogononta	Ploima	Epiphanidae	Veltae
+Monogononta	Ploima	Euchlanidae	Beauchampiella
+Monogononta	Ploima	Euchlanidae	Dapidia
+Monogononta	Ploima	Euchlanidae	Dipleuchlanis
+Monogononta	Ploima	Euchlanidae	Diplois
+Monogononta	Ploima	Euchlanidae	Euchlanis
+Monogononta	Ploima	Euchlanidae	Eudactylota
+Monogononta	Ploima	Euchlanidae	Manfredium
+Monogononta	Ploima	Euchlanidae	Pseudoeuchlanis
+Monogononta	Ploima	Euchlanidae	Tripleuchlanis
+Monogononta	Flosculariacea	Flosculariidae	Anthos
+Monogononta	Flosculariacea	Flosculariidae	Beauchampia
+Monogononta	Flosculariacea	Flosculariidae	Cephalosiphon
+Monogononta	Flosculariacea	Flosculariidae	Floscularia
+Monogononta	Flosculariacea	Flosculariidae	Lacinularia
+Monogononta	Flosculariacea	Flosculariidae	Limnias
+Monogononta	Flosculariacea	Flosculariidae	Limnioides
+Monogononta	Flosculariacea	Flosculariidae	Megalotrocha
+Monogononta	Flosculariacea	Flosculariidae	Melicerta
+Monogononta	Flosculariacea	Flosculariidae	Octotrocha
+Monogononta	Flosculariacea	Flosculariidae	Oecistes
+Monogononta	Flosculariacea	Flosculariidae	Pseudoecistes
+Monogononta	Flosculariacea	Flosculariidae	Ptygura
+Monogononta	Flosculariacea	Flosculariidae	Sinantherina
+Monogononta	Flosculariacea	Flosculariidae	Strophosphaera
+Monogononta	Flosculariacea	Flosculariidae	Tubicolaria
+Monogononta	Flosculariacea	Flosculariidae	Voronkowia
+Monogononta	Ploima	Gastropodidae	Anapus
+Monogononta	Ploima	Gastropodidae	Ascomorpha
+Monogononta	Ploima	Gastropodidae	Chromogaster
+Monogononta	Ploima	Gastropodidae	Gastropus
+Monogononta	Ploima	Gastropodidae	Hudsonella
+Monogononta	Ploima	Gastropodidae	Hudsonia
+Monogononta	Ploima	Gastropodidae	Hypopus
+Monogononta	Ploima	Gastropodidae	Postclausa
+Monogononta	Ploima	Gastropodidae	Sacculus
+Bdelloidea		Habrotrochidae	Habrotrocha
+Bdelloidea		Habrotrochidae	Otostephanos
+Bdelloidea		Habrotrochidae	Scepanotrocha
+Monogononta	Flosculariacea	Hexarthridae	Hexarthra
+Monogononta	Flosculariacea	Hexarthridae	Pedalia
+Monogononta	Flosculariacea	Hexarthridae	Pedalion
+Monogononta	Ploima	Ituridae	Itura
+Monogononta	Ploima	Lecanidae	Cathypna
+Monogononta	Ploima	Lecanidae	Diarthra
+Monogononta	Ploima	Lecanidae	Distyla
+Monogononta	Ploima	Lecanidae	Hemimonostyla
+Monogononta	Ploima	Lecanidae	Lecane
+Monogononta	Ploima	Lecanidae	Monostyla
+Monogononta	Ploima	Lepadellidae	Colurella
+Monogononta	Ploima	Lepadellidae	Colurus
+Monogononta	Ploima	Lepadellidae	Eulepadella
+Monogononta	Ploima	Lepadellidae	Heterolepadella
+Monogononta	Ploima	Lepadellidae	Hexastemma
+Monogononta	Ploima	Lepadellidae	Lepadella
+Monogononta	Ploima	Lepadellidae	Listrion
+Monogononta	Ploima	Lepadellidae	Lycocephalus
+Monogononta	Ploima	Lepadellidae	Metopidia
+Monogononta	Ploima	Lepadellidae	Monura
+Monogononta	Ploima	Lepadellidae	Notogonia
+Monogononta	Ploima	Lepadellidae	Paracolurella
+Monogononta	Ploima	Lepadellidae	Paralepadella
+Monogononta	Ploima	Lepadellidae	Squamella
+Monogononta	Ploima	Lepadellidae	Squatinella
+Monogononta	Ploima	Lepadellidae	Stephanops
+Monogononta	Ploima	Lepadellidae	Xenolepadella
+Monogononta	Ploima	Lindiidae	Halolindia
+Monogononta	Ploima	Lindiidae	Lindia
+Monogononta	Ploima	Microcodidae	Microcodon
+Monogononta	Ploima	Mytilinidae	Diplacidium
+Monogononta	Ploima	Mytilinidae	Diplax
+Monogononta	Ploima	Mytilinidae	Lophocharis
+Monogononta	Ploima	Mytilinidae	Mytilina
+Monogononta	Ploima	Mytilinidae	Oxysterna
+Monogononta	Ploima	Mytilinidae	Salpina
+Monogononta	Ploima	Notommatidae	Cephalodella
+Monogononta	Ploima	Notommatidae	Copeus
+Monogononta	Ploima	Notommatidae	Diaschiza
+Monogononta	Ploima	Notommatidae	Dorystoma
+Monogononta	Ploima	Notommatidae	Drilophaga
+Monogononta	Ploima	Notommatidae	Enteroplea
+Monogononta	Ploima	Notommatidae	Eosphora
+Monogononta	Ploima	Notommatidae	Eothinia
+Monogononta	Ploima	Notommatidae	Labidodon
+Monogononta	Ploima	Notommatidae	Metadiaschiza
+Monogononta	Ploima	Notommatidae	Monommata
+Monogononta	Ploima	Notommatidae	Norops
+Monogononta	Ploima	Notommatidae	Notommata
+Monogononta	Ploima	Notommatidae	Notostemma
+Monogononta	Ploima	Notommatidae	Paracephalodella
+Monogononta	Ploima	Notommatidae	Pleurata
+Monogononta	Ploima	Notommatidae	Pleurotrocha
+Monogononta	Ploima	Notommatidae	Pleurotrochopsis
+Monogononta	Ploima	Notommatidae	Pseudoharringia
+Monogononta	Ploima	Notommatidae	Pseudoploesoma
+Monogononta	Ploima	Notommatidae	Resticula
+Monogononta	Ploima	Notommatidae	Rousseletia
+Monogononta	Ploima	Notommatidae	Sphyrias
+Monogononta	Ploima	Notommatidae	Taphrocampa
+Monogononta	Ploima	Notommatidae	Triophthalmus
+Monogononta	Ploima	Notommatidae	Triphylus
+Monogononta	Ploima	Notommatidae	Tylotrocha
+Monogononta	Ploima	Notommatidae	Vanoyella
+Bdelloidea		Philodinavidae	Abrochtha
+Bdelloidea		Philodinavidae	Henoceros
+Bdelloidea		Philodinavidae	Microdina
+Bdelloidea		Philodinavidae	Monoceros
+Bdelloidea		Philodinavidae	Philodinavus
+Bdelloidea		Philodinidae	Actinurus
+Bdelloidea		Philodinidae	Anomopus
+Bdelloidea		Philodinidae	Ceratotrocha
+Bdelloidea		Philodinidae	Didymodactylos
+Bdelloidea		Philodinidae	Discopus
+Bdelloidea		Philodinidae	Dissotrocha
+Bdelloidea		Philodinidae	Embata
+Bdelloidea		Philodinidae	Esechielina
+Bdelloidea		Philodinidae	Macrotrachela
+Bdelloidea		Philodinidae	Mniobia
+Bdelloidea		Philodinidae	Philodina
+Bdelloidea		Philodinidae	Pleuretra
+Bdelloidea		Philodinidae	Pseudoembata
+Bdelloidea		Philodinidae	Rotaria
+Bdelloidea		Philodinidae	Rotifer
+Bdelloidea		Philodinidae	Zelinkiella
+Monogononta	Ploima	Proalidae	Bryceella
+Monogononta	Ploima	Proalidae	Diops
+Monogononta	Ploima	Proalidae	Mytilia
+Monogononta	Ploima	Proalidae	Proales
+Monogononta	Ploima	Proalidae	Proalinopsis
+Monogononta	Ploima	Proalidae	Wulfertia
+Monogononta	Ploima	Scaridiidae	Scaridium
+Pararotatoria	Seisonacea	Seisonidae	Paraseison
+Pararotatoria	Seisonacea	Seisonidae	Saccobdella
+Pararotatoria	Seisonacea	Seisonidae	Seison
+Monogononta	Ploima	Synchaetidae	Anarthra
+Monogononta	Ploima	Synchaetidae	Bipalpus
+Monogononta	Ploima	Synchaetidae	Dictyoderma
+Monogononta	Ploima	Synchaetidae	Gastroschiza
+Monogononta	Ploima	Synchaetidae	Gomphogaster
+Monogononta	Ploima	Synchaetidae	Parasynchaeta
+Monogononta	Ploima	Synchaetidae	Ploesoma
+Monogononta	Ploima	Synchaetidae	Polyarthra
+Monogononta	Ploima	Synchaetidae	Synchaeta
+Monogononta	Flosculariacea	Testudinellidae	Anchitestudinella
+Monogononta	Flosculariacea	Testudinellidae	Pompholyx
+Monogononta	Flosculariacea	Testudinellidae	Proboskidia
+Monogononta	Flosculariacea	Testudinellidae	Pterodina
+Monogononta	Flosculariacea	Testudinellidae	Testudinella
+Monogononta	Flosculariacea	Tetrasiphonidae	Tetrasiphon
+Monogononta	Ploima	Trichocercidae	Acanthodactylus
+Monogononta	Ploima	Trichocercidae	Ascomorphella
+Monogononta	Ploima	Trichocercidae	Coelopus
+Monogononta	Ploima	Trichocercidae	Diurella
+Monogononta	Ploima	Trichocercidae	Diurellaeopsis
+Monogononta	Ploima	Trichocercidae	Elosa
+Monogononta	Ploima	Trichocercidae	Hertwigella
+Monogononta	Ploima	Trichocercidae	Hertwigia
+Monogononta	Ploima	Trichocercidae	Mastigocerca
+Monogononta	Ploima	Trichocercidae	Monocerca
+Monogononta	Ploima	Trichocercidae	Paratrichocerca
+Monogononta	Ploima	Trichocercidae	Rattulus
+Monogononta	Ploima	Trichocercidae	Trichocerca
+Monogononta	Ploima	Trichocercidae	Vaginaria
+Monogononta	Ploima	Trichotriidae	Dinocharis
+Monogononta	Ploima	Trichotriidae	Macrochaetus
+Monogononta	Ploima	Trichotriidae	Polychaetus
+Monogononta	Ploima	Trichotriidae	Trichotria
+Monogononta	Ploima	Trichotriidae	Wolga
+Monogononta	Flosculariacea	Trochosphaeridae	Fadeewella
+Monogononta	Flosculariacea	Trochosphaeridae	Filinia
+Monogononta	Flosculariacea	Trochosphaeridae	Horaella
+Monogononta	Flosculariacea	Trochosphaeridae	Parafilinia
+Monogononta	Flosculariacea	Trochosphaeridae	Pedetes
+Monogononta	Flosculariacea	Trochosphaeridae	Tetramastix
+Monogononta	Flosculariacea	Trochosphaeridae	Triarthra
+Monogononta	Flosculariacea	Trochosphaeridae	Trochosphaera

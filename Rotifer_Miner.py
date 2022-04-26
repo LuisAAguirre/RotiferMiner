@@ -1,6 +1,6 @@
 import argparse
 import os
-import ncbi_esearch, walsh_fasta_creation
+import ncbi_esearch, walsh_fasta_creation, combine_ind_genes
 
 #########################################################################################################################
 #                                             Rotifer Miner Arguments                                                   #
@@ -130,10 +130,13 @@ if not os.path.exists(countdir):
 def rotifer_miner(taxon):
     ncbi_esearch.esearch(taxon, rawdir, cleandir, countdir, args.min_length, args.exclusion_list, args.ITS, args.s18, args.s28, args.COI)
 
-if args.internal_file:
-    walsh_fasta_creation.fasta_creation(args.internal_file, cleandir)
-
 if __name__ == "__main__":
+    print('\n\n')
+    dir = os.getcwd().replace('\\', '/')
+
+    if args.internal_file:
+        walsh_fasta_creation.fasta_creation(args.internal_file, cleandir, countdir)
+
     if args.Monogononta:
         rotifer_miner('10191')
         
@@ -148,3 +151,5 @@ if __name__ == "__main__":
         
     if args.taxonomy_id:
         rotifer_miner('txid' + args.taxonomy_id)
+
+    combine_ind_genes.combine_ind_genes(dir + '/rotifera_genera.txt', countdir, args.outdir + '/' + 'combined_genes')

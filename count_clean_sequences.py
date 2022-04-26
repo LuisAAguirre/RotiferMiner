@@ -28,7 +28,7 @@ def count_clean(file, min, to_exclude, rawdir, cleandir, countdir):
    
    fasta_list.append([genus_species,genus,species,header,seq])
    
-   print(len(fasta_list))
+   print('Total sequences dowloaded: ' + str(len(fasta_list)))
    
    #Write out cleaned fasta file
    genus_count = {}
@@ -45,11 +45,11 @@ def count_clean(file, min, to_exclude, rawdir, cleandir, countdir):
             genus_count[fasta[0]] = 1
    
    fo.close()
-   print(to_exclude[0])
+   print('Exclusion list: ' + str(to_exclude[0]) + ', minimum length:' + str(min))
    #Write out Genus count list in CSV form
    fo = open(countdir + file.split('_raw')[0]+'.txt','w')
-   print('Number of different genera: %s\n'%len(genus_count.keys()))
-   print('Number of sequences kept: %s'%seq_count)
+   print('Number of different genera: %s'%len(genus_count.keys()))
+   print('Number of sequences kept: %s\n\n'%seq_count)
    for g in genus_count.keys():
       fo.write(','.join(g.split('_')) + ',' + str(genus_count[g]) + '\n')
    fo.close()

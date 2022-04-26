@@ -20,14 +20,10 @@ def efetch(name, marker, webenv, key, rawdir):
     
     efetch = requests.get('https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nucleotide&WebEnv=' + webenv + '&query_key=' + key + '&retmode=text&rettype=fasta')
 
-    outfile = open(rawdir + name + '_' + marker + '_' + date + '_raw' + '.fasta', "w")
+    outfile = open(rawdir + marker + '_' + name + '_' + date + '_raw' + '.fasta', "w")
     outfile.write(str(efetch.content).replace('\\n', '\n').replace('\\n\\n', '\n\n').replace('b\"','').replace('\"', ''))
     outfile.close()
     
-    print(marker + name + ' ' + ' ' + 'file successfully created')
+    print(marker + '_' + name + ' ' + 'file successfully created')
     
-    return(marker + name + '_' + '_' + date + '_raw' + '.fasta') 
-    
-    
-        
-    
+    return(marker + '_' + name + '_' + date + '_raw' + '.fasta') 
