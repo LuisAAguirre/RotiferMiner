@@ -1,2 +1,2 @@
-# Rotifer_Miner
+# RotiferMiner
 Python script that makes use of the NCBI Entrez system public API to assist in the retrieval and organization of DNA sequences of interest. This script downloads user specified genetic markers for each of the desired taxonomic groups in FASTA format, filters unwanted sequences based on a user defined exclusion list (i.e., sequence length and taxonomic classification), can combine downloaded sequences with internal laboratory records, and produces a list with counts-at the species level-of the specified genetic markers. 
